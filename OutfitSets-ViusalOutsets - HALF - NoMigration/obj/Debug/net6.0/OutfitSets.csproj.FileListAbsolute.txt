@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\StardewValleyMods-master\OutfitSets-ViusalOutsets - HALF - NoMigration\bin\Debug\net6.0\manifest.json
+C:\Users\Administrator\Desktop\StardewValleyMods-master\OutfitSets-ViusalOutsets - HALF - NoMigration\bin\Debug\net6.0\OutfitSets.deps.json
+C:\Users\Administrator\Desktop\StardewValleyMods-master\OutfitSets-ViusalOutsets - HALF - NoMigration\bin\Debug\net6.0\OutfitSets.dll
+C:\Users\Administrator\Desktop\StardewValleyMods-master\OutfitSets-ViusalOutsets - HALF - NoMigration\obj\Debug\net6.0\OutfitSets.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\StardewValleyMods-master\OutfitSets-ViusalOutsets - HALF - NoMigration\obj\Debug\net6.0\OutfitSets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\StardewValleyMods-master\OutfitSets-ViusalOutsets - HALF - NoMigration\obj\Debug\net6.0\OutfitSets.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\StardewValleyMods-master\OutfitSets-ViusalOutsets - HALF - NoMigration\obj\Debug\net6.0\OutfitSets.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\StardewValleyMods-master\OutfitSets-ViusalOutsets - HALF - NoMigration\obj\Debug\net6.0\OutfitSets.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\StardewValleyMods-master\OutfitSets-ViusalOutsets - HALF - NoMigration\obj\Debug\net6.0\OutfitSets.dll

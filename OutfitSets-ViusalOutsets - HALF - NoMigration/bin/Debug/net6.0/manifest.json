@@ -1,0 +1,9 @@
+{
+  "Name": "Outfit Sets for 1.6",
+  "Author": "aedenthorn and Adalghizar and wind0nd",
+  "Version": "1.0.0",
+  "Description": "Outfit Sets.appearance and equipment",
+  "UniqueID": "aedenthorn.OutfitSets",
+  "EntryDll": "OutfitSets.dll",
+  "MinimumApiVersion": "3.15.0"
+}
